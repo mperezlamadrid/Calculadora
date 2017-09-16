@@ -11,4 +11,6 @@
     <string name="dividir">Divition</string>
     <string name="primer_numero">First Number</string>
     <string name="segundo_numero">Second Number</string>
+    <string name="error_dos">Type second number</string>
+    <string name="error_uno">Type first number</string>
 </resources>
